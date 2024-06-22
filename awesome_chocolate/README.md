@@ -1,1 +1,29 @@
-
+This is my first Excel project. Data is taken from chandoo.org. The steps I went through in this projects are:
+1. Data cleaning
+   I cleaned my data by converting some rupees amount data to dollar amount in Amount column
+2. Data processing
+   I processed my data. I added column of another table by using XLOOKUP so I combined the data and added more calculated fields as these added fields will be 
+   required later on.
+3. Quick statistics
+   I analysed my data and calculated sum, average, median, mode, min, max, range, quartiles, count by using formulas. I also used UNIQUE function to find the 
+   distinct values.
+4. Exploratory Data Analysis with conditional formatting
+   I copied my data in new sheet and then using conditional formatting, I analysed my data. I sorted my Amount data in descending order and highlighted the top 10 
+   and in Units column I highlighted the duplicate values to understand the nature of units being sold.
+5. Data Analysis
+   a)Sales by country(pivot table)
+   I made a pivot table which is compairing sales and units country wise. I found India is the best selling country followed by Canada. Then i made pivot chart 
+   showing sales and units in different countries. I inserted slicer having different sales person. On clicking a particular sales person, my table and chart 
+   changed accordingly.
+   b)Top 5 products by $ per unit
+   Again with the help of pivot table I analysed my products and made a calculated field namely, sales per unit. I sorted sales per unit in descending order and 
+   found Raspberry is most costly followed by peanut Butter Cubes and also made pivot chart analysing the same.
+   c)Anamoly detection
+   I compared my sales and units being sold using pivot chart and some anamolies. 510 units of a product were sold for $819 , only 39 units of another product were 
+   sold for $16,184. These were some poits one can look up. 
+   d)Best sales person by country
+   Using pivot table I found the best sales persons in the countries by sorting Amounts column in descending order and showing only the top one. I then created 
+   pivot chart
+   e)
+![conclusion awesome chocolate](https://github.com/DivyanshiAgarwa1/Excel-Projects/assets/172874617/70367d37-272e-4d34-b6d4-7158bc30d006)
+![image](https://github.com/DivyanshiAgarwa1/Excel-Projects/assets/172874617/0c2c1d06-e08a-4a4c-85f2-ce5a692864c4)
