@@ -37,5 +37,7 @@ This is my first Excel project. Data is taken from chandoo.org. The steps I went
    Using pivot table I analysed my product and added a calculated field called as profit % and by sorting the profit% in ascending order the first data is showing 
   the least profit giving product and now by slicer we can analyse our data according to countries. We can discontinue the product giving the least profit.
    
-![conclusion awesome chocolate](https://github.com/DivyanshiAgarwa1/Excel-Projects/assets/172874617/70367d37-272e-4d34-b6d4-7158bc30d006)
-![image](https://github.com/DivyanshiAgarwa1/Excel-Projects/assets/172874617/0c2c1d06-e08a-4a4c-85f2-ce5a692864c4)
+![conclusion awesome chocolate]![ac 2](https://github.com/DivyanshiAgarwa1/Excel-Projects/assets/172874617/5cbed30e-62e5-4688-8a15-0a4ceb092aa6)
+
+![image]![ac 1](https://github.com/DivyanshiAgarwa1/Excel-Projects/assets/172874617/aa5774f2-fefe-41fe-be71-d4140a953e17)
+
